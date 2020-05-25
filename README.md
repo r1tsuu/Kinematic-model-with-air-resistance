@@ -1,5 +1,5 @@
 # Kinematic-model-with-air-resistance
-Shows the body flying trajectory from initial options.
+Shows the body flying trajectory from initial options (with animation).
 
 Install:
 1) pip install matplotlib
